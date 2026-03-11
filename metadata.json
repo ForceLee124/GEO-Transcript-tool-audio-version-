@@ -1,0 +1,5 @@
+{
+  "name": "團隊共享-會議逐字稿助手",
+  "description": "上傳會議影片或音檔，自動辨識語音並轉為繁體中文逐字稿與時間戳記。",
+  "requestFramePermissions": []
+}
